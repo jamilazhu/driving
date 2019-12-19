@@ -11,5 +11,6 @@ elif country == 'USA':
         print('You can conduct the test')
     else:
         print('You can not yet conduct the test')
+else: 
+    print( 'Wrong input, only China or USA')
 
-        
